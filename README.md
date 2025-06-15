@@ -18,12 +18,12 @@ I bridge the gap between **strategy and delivery**, driving AI initiatives from 
 | **Languages** | Python, PySpark, SQL, Go |
 | **LLM Ops** | LangChain, LlamaIndex, Triton, HuggingFace Transformers, vLLM |
 | **Cloud & Infra** | GCP, Azure, K8s, Terraform |
-| **AI Agentic Ops** | LangGraph • CrewAI • LLM Function Calling • Prompt Layer • EvalGPT |
-| **Data Eng & Storage** | DuckDB • Apache Spark • Kafka • Airflow • Postgres • ClickHouse • BigQuery |
-| **Speech & Audio** | Whisper • SeamlessM4T • SpeechTTS • Coqui TTS • FunASR |
-| **MLOps & Experiment Tracking** | Vertex AI Pipelines • MLflow |
-| **Observability & Logging** | Prometheus • Grafana • Elastic Stack |
-| **Testing & Load** | pytest • Locust • k6 |
+| **AI Agentic Ops** | LangGraph, CrewAI, LLM Function Calling, Prompt Layer, EvalGPT |
+| **Data Eng & Storage** | DuckDB, Apache Spark, Kafka, Airflow, Postgres, ClickHouse, BigQuery |
+| **Speech & Audio** | Whisper, SeamlessM4T, SpeechTTS, Coqui TTS, FunASR |
+| **MLOps & Experiment Tracking** | Vertex AI Pipelines, MLflow |
+| **Observability & Logging** | Prometheus, Grafana, Elastic Stack |
+| **Testing & Load** | pytest, Locust, k6 |
 
 
 ---
